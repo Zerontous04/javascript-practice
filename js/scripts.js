@@ -6,3 +6,4 @@ comment
 */
 console.log('Fasika')
 console.log('Salmon')
+console.log(1+1)
